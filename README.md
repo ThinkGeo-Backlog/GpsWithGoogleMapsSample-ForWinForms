@@ -3,7 +3,7 @@
 ### Description
 This project shows how to display on Google Map point data coming from some GPS reading in Geodetic (Longitude/Latitude). It also shows how to set the extent of the map so that it is centered on the GPS point.
 
-![Screenshot](https://github.com/ThinkGeo/GPStoGoogleMapDesktopSample-ForWinForms/blob/master/ScreenShot.png)
+![Screenshot](https://github.com/ThinkGeo/GpsWithGoogleMapsSample-ForWinForms/blob/master/ScreenShot.png)
 
 ### Requirements
 This sample makes use of the following NuGet Packages
